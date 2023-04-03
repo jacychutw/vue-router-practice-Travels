@@ -13,7 +13,6 @@
 npm install
 ```
 - 編輯input.css
-```
 - 啟動開發伺服器
 ```
 npm run build-css
